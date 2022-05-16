@@ -1,0 +1,161 @@
+19:11:50 **** Rebuild of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+19:11:56 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+19:23:56 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+..\src\Parcial Enzo Galvan Rodriguez.c: In function 'aplicarDescuento':
+..\src\Parcial Enzo Galvan Rodriguez.c:30:13: warning: unused variable 'resultado' [-Wunused-variable]
+   30 |         int resultado;
+      |             ^~~~~~~~~
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+19:24:04 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+Info: Nothing to build for Parcial Enzo Galvan Rodriguez
+19:24:28 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+Info: Nothing to build for Parcial Enzo Galvan Rodriguez
+19:25:41 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+..\src\Parcial Enzo Galvan Rodriguez.c: In function 'aplicarDescuento':
+..\src\Parcial Enzo Galvan Rodriguez.c:30:13: warning: variable 'resultado' set but not used [-Wunused-but-set-variable]
+   30 |         int resultado;
+      |             ^~~~~~~~~
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+19:25:55 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+Info: Nothing to build for Parcial Enzo Galvan Rodriguez
+19:26:19 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+Info: Nothing to build for Parcial Enzo Galvan Rodriguez
+19:26:48 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+..\src\Parcial Enzo Galvan Rodriguez.c: In function 'main':
+..\src\Parcial Enzo Galvan Rodriguez.c:18:30: error: expected ',' or ';' before '$'
+   18 |         float precio = 10000 '$';
+      |                              ^~~
+19:26:54 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+19:27:18 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+Info: Nothing to build for Parcial Enzo Galvan Rodriguez
+19:28:18 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+Info: Nothing to build for Parcial Enzo Galvan Rodriguez
+19:28:34 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+..\src\Parcial Enzo Galvan Rodriguez.c: In function 'main':
+..\src\Parcial Enzo Galvan Rodriguez.c:20:18: warning: format '%f' expects argument of type 'double', but argument 2 has type 'int' [-Wformat=]
+   20 |         printf("%f", aplicarDescuento(precio));
+      |                 ~^   ~~~~~~~~~~~~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   int
+      |                  double
+      |                 %d
+..\src\Parcial Enzo Galvan Rodriguez.c: At top level:
+..\src\Parcial Enzo Galvan Rodriguez.c:27:7: error: conflicting types for 'aplicarDescuento'; have 'float(float)'
+   27 | float aplicarDescuento(float precioP)
+      |       ^~~~~~~~~~~~~~~~
+..\src\Parcial Enzo Galvan Rodriguez.c:11:5: note: previous declaration of 'aplicarDescuento' with type 'int(float)'
+   11 | int aplicarDescuento(float precioP);
+      |     ^~~~~~~~~~~~~~~~
+19:28:47 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+Info: Nothing to build for Parcial Enzo Galvan Rodriguez
+19:29:03 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+..\src\Parcial Enzo Galvan Rodriguez.c: In function 'main':
+..\src\Parcial Enzo Galvan Rodriguez.c:20:18: warning: format '%f' expects argument of type 'double', but argument 2 has type 'int' [-Wformat=]
+   20 |         printf("%f", aplicarDescuento(precio));
+      |                 ~^   ~~~~~~~~~~~~~~~~~~~~~~~~
+      |                  |   |
+      |                  |   int
+      |                  double
+      |                 %d
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+19:29:08 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+19:40:14 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+Info: Nothing to build for Parcial Enzo Galvan Rodriguez
+19:40:30 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+..\src\Parcial Enzo Galvan Rodriguez.c: In function 'main':
+..\src\Parcial Enzo Galvan Rodriguez.c:20:15: warning: unused variable 'precio' [-Wunused-variable]
+   20 |         float precio = 750;
+      |               ^~~~~~
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+19:40:36 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+Info: Nothing to build for Parcial Enzo Galvan Rodriguez
+19:42:48 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+Info: Nothing to build for Parcial Enzo Galvan Rodriguez
+19:44:35 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+Info: Nothing to build for Parcial Enzo Galvan Rodriguez
+Info: Nothing to build for Parcial Enzo Galvan Rodriguez
+Info: Nothing to build for Parcial Enzo Galvan Rodriguez
+Info: Nothing to build for Parcial Enzo Galvan Rodriguez
+19:45:59 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+Info: Nothing to build for Parcial Enzo Galvan Rodriguez
+19:46:32 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+..\src\Parcial Enzo Galvan Rodriguez.c: In function 'main':
+..\src\Parcial Enzo Galvan Rodriguez.c:21:14: warning: unused variable 'caracter' [-Wunused-variable]
+   21 |         char caracter = 'a';
+      |              ^~~~~~~~
+..\src\Parcial Enzo Galvan Rodriguez.c:20:14: warning: unused variable 'cadena' [-Wunused-variable]
+   20 |         char cadena[20] = "Hola, como estas?";
+      |              ^~~~~~
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+19:46:36 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+Info: Nothing to build for Parcial Enzo Galvan Rodriguez
+19:46:47 **** Incremental Build of configuration Debug for project Parcial Enzo Galvan Rodriguez ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Parcial Enzo Galvan Rodriguez.o" "..\\src\\Parcial Enzo Galvan Rodriguez.c" 
+gcc -o "Parcial Enzo Galvan Rodriguez.exe" "src\\Parcial Enzo Galvan Rodriguez.o" 
+Info: Nothing to build for Parcial Enzo Galvan Rodriguez
